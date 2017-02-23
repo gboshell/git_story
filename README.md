@@ -18,4 +18,8 @@ a project to write a git story to demonstrate github workflow
 
 8. git push origin master
 
+9. create html file for chapter 1
+
+10. start chapter 1 and push
+
 
