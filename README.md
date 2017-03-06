@@ -24,4 +24,6 @@ a project to write a git story to demonstrate github workflow
 
 11. start chapter 2, paragraph 1 and push
 
+12. add chapter 2, paragraph 2 and push
+
 
