@@ -22,6 +22,6 @@ a project to write a git story to demonstrate github workflow
 
 10. start chapter 1 and push
 
-11. start chapter 2 and push
+11. start chapter 2, paragraph 1 and push
 
 
