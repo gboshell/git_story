@@ -12,7 +12,7 @@ a project to write a git story to demonstrate github workflow
 
 5. git add
 
-6. create .gotignore
+6. create .gitignore
 
 7. git commit
 
@@ -25,5 +25,7 @@ a project to write a git story to demonstrate github workflow
 11. start chapter 2, paragraph 1 and push
 
 12. add chapter 2, paragraph 2 and push
+
+13. add chapter 3, paragraph 3 and push
 
 
