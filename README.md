@@ -28,4 +28,8 @@ a project to write a git story to demonstrate github workflow
 
 13. add chapter 3, paragraph 3 and push
 
+14. modify README
+
+15. add chapter 3 paragraph 1 and push
+
 
