@@ -30,4 +30,6 @@ a project to write a git story to demonstrate github workflow
 
 14. add chapter 3 paragraph 2 and modify README
 
+15. add chapter 3 paragraph 3 and modify README
+
 
